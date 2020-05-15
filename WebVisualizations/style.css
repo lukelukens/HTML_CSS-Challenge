@@ -1,0 +1,32 @@
+#main_body {
+    background-color: lightgray;
+}
+
+.row {
+    padding: 100px;
+}
+
+.row-height {
+    height: 70px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.col-md-7,.col-md-4 {
+    background-color: white;
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+}
+
+.footer {
+    background-color: darkslategray;
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+h3 {
+    font-size: 15px;
+}
